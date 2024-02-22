@@ -1,0 +1,1001 @@
+employee_id,department,tenure,is_mentor,is_mentee,fully_remote,surveys_taken,training_taken,relative_salary_level,bonus,employment_status,awards,team_level_survey_satisfication,turnover
+1,IT,High,Y,N,N,10,Y,High,Y,Full Time,18,Green,0
+2,HR,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+3,Legal,High,Y,N,N,10,Y,High,Y,Full Time,19,Green,0
+4,HR,High,Y,N,N,10,Y,High,Y,Full Time,19,Green,0
+5,Sales,High,Y,N,N,10,Y,High,Y,Full Time,9,Green,0
+6,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,15,Green,0
+7,Finance,High,Y,N,N,10,Y,High,Y,Full Time,15,Green,0
+8,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+9,Marketing,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+10,Marketing,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+11,Legal,High,Y,N,N,10,Y,High,Y,Full Time,17,Green,0
+12,IT,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+13,IT,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+14,Marketing,High,Y,N,N,10,Y,High,Y,Full Time,13,Green,0
+15,Marketing,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+16,Legal,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+17,Admin,High,Y,N,N,10,Y,High,Y,Full Time,10,Green,0
+18,Finance,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+19,Finance,High,Y,N,N,10,Y,High,Y,Full Time,9,Green,0
+20,Accounting,High,Y,N,N,10,Y,High,Y,Full Time,9,Green,0
+21,Marketing,High,Y,N,N,10,Y,High,Y,Full Time,15,Green,0
+22,HR,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+23,Accounting,High,Y,N,N,10,Y,High,Y,Full Time,15,Green,0
+24,Admin,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+25,IT,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+26,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,15,Green,0
+27,HR,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+28,Finance,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+29,Sales,High,Y,N,N,10,Y,High,Y,Full Time,9,Green,0
+30,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,15,Green,0
+31,Finance,High,Y,N,N,10,Y,High,Y,Full Time,13,Green,0
+32,Legal,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+33,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,18,Green,0
+34,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,16,Green,0
+35,IT,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+36,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,19,Green,0
+37,Finance,High,Y,N,N,10,Y,High,Y,Full Time,20,Green,0
+38,Legal,High,Y,N,N,10,Y,High,Y,Full Time,15,Green,0
+39,HR,High,Y,N,N,10,Y,High,Y,Full Time,17,Green,0
+40,Marketing,High,Y,N,N,10,Y,High,Y,Full Time,17,Green,0
+41,Admin,High,Y,N,N,10,Y,High,Y,Full Time,18,Green,0
+42,Finance,High,Y,N,N,10,Y,High,Y,Full Time,18,Green,0
+43,Marketing,High,Y,N,N,10,Y,High,Y,Full Time,19,Green,0
+44,Legal,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+45,Finance,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+46,Sales,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+47,Sales,High,Y,N,N,10,Y,High,Y,Full Time,18,Green,0
+48,Marketing,High,Y,N,N,10,Y,High,Y,Full Time,19,Green,0
+49,Legal,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+50,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+51,Legal,High,Y,N,N,10,Y,High,Y,Full Time,19,Green,0
+52,Marketing,High,Y,N,N,10,Y,High,Y,Full Time,18,Green,0
+53,HR,High,Y,N,N,10,Y,High,Y,Full Time,19,Green,0
+54,Legal,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+55,Finance,High,Y,N,N,10,Y,High,Y,Full Time,15,Green,0
+56,HR,High,Y,N,N,10,Y,High,Y,Full Time,10,Green,0
+57,IT,High,Y,N,N,10,Y,High,Y,Full Time,15,Green,0
+58,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,9,Green,0
+59,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,18,Green,0
+60,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,12,Yellow,0
+61,IT,High,Y,N,N,10,Y,High,Y,Full Time,9,Yellow,0
+62,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,16,Yellow,0
+63,Admin,High,Y,N,N,10,Y,High,Y,Full Time,12,Yellow,0
+64,IT,High,Y,N,N,10,Y,High,Y,Full Time,16,Yellow,0
+65,Finance,High,Y,N,N,10,Y,High,Y,Full Time,16,Yellow,0
+66,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,16,Yellow,0
+67,IT,High,Y,N,N,10,Y,High,Y,Full Time,11,Yellow,0
+68,Sales,High,Y,N,N,10,Y,High,Y,Full Time,9,Yellow,0
+69,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,9,Yellow,0
+70,Marketing,High,Y,N,N,10,Y,High,Y,Full Time,10,Yellow,0
+71,IT,High,Y,N,N,10,Y,High,Y,Full Time,14,Yellow,0
+72,Accounting,High,Y,N,N,10,Y,High,Y,Full Time,18,Yellow,0
+73,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,19,Yellow,0
+74,Sales,High,Y,N,N,10,Y,High,Y,Full Time,14,Yellow,0
+75,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,20,Yellow,0
+76,IT,High,Y,N,N,10,Y,High,Y,Full Time,18,Yellow,0
+77,HR,High,Y,N,N,10,Y,High,Y,Full Time,18,Yellow,0
+78,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,10,Yellow,0
+79,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,19,Yellow,0
+80,Finance,High,Y,N,N,10,Y,High,Y,Full Time,19,Yellow,0
+81,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,19,Yellow,0
+82,HR,High,Y,N,N,10,Y,High,Y,Full Time,12,Yellow,0
+83,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,18,Yellow,0
+84,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,14,Yellow,0
+85,HR,High,Y,N,N,10,Y,High,Y,Full Time,19,Yellow,0
+86,Legal,High,Y,N,N,10,Y,High,Y,Full Time,17,Yellow,0
+87,Legal,High,Y,N,N,10,Y,High,Y,Full Time,17,Yellow,0
+88,Admin,High,Y,N,N,10,Y,High,Y,Full Time,9,Yellow,0
+89,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,20,Yellow,0
+90,Legal,High,Y,N,N,10,Y,High,Y,Full Time,15,Yellow,0
+91,Legal,High,Y,N,N,10,Y,High,Y,Full Time,12,Yellow,0
+92,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,16,Yellow,0
+93,Finance,High,Y,N,N,10,Y,High,Y,Full Time,18,Yellow,0
+94,Marketing,High,Y,N,N,10,Y,High,Y,Full Time,16,Yellow,0
+95,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,20,Green,0
+96,Marketing,High,Y,N,Y,10,Y,High,Y,Full Time,13,Green,0
+97,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,17,Green,0
+98,IT,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+99,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+100,Finance,High,Y,N,N,10,Y,High,Y,Full Time,19,Green,0
+101,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,17,Green,0
+102,Marketing,High,Y,N,N,10,Y,High,Y,Full Time,19,Green,0
+103,Legal,High,Y,N,N,10,Y,High,Y,Full Time,20,Green,0
+104,Finance,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+105,Marketing,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+106,Legal,High,Y,N,N,10,Y,High,Y,Full Time,17,Green,0
+107,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+108,HR,High,Y,N,Y,10,Y,High,Y,Full Time,14,Green,0
+109,IT,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+110,Legal,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+111,Finance,High,Y,N,N,10,Y,High,Y,Full Time,19,Green,0
+112,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,20,Green,0
+113,IT,High,Y,N,N,10,Y,High,Y,Full Time,17,Green,0
+114,Sales,High,Y,N,Y,10,Y,High,Y,Full Time,11,Green,0
+115,HR,High,Y,N,Y,10,Y,High,Y,Full Time,9,Green,0
+116,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+117,Admin,High,Y,N,N,10,Y,High,Y,Full Time,18,Green,0
+118,Customer Service,High,Y,N,Y,10,Y,High,Y,Full Time,10,Green,0
+119,Admin,High,Y,N,N,10,Y,High,Y,Full Time,13,Green,0
+120,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,19,Green,0
+121,HR,High,Y,N,Y,10,Y,High,Y,Full Time,18,Green,0
+122,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,16,Green,0
+123,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,10,Green,0
+124,Sales,High,Y,N,N,10,Y,High,Y,Full Time,18,Green,0
+125,Legal,High,Y,N,N,10,Y,High,Y,Full Time,13,Green,0
+126,Finance,High,Y,N,N,10,Y,High,Y,Full Time,16,Green,0
+127,IT,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+128,Admin,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+129,Legal,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+130,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,15,Green,0
+131,Accounting,High,Y,N,N,10,Y,High,Y,Full Time,10,Green,0
+132,Admin,High,Y,N,N,10,Y,High,Y,Full Time,16,Green,0
+133,Legal,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+134,HR,High,Y,N,N,10,Y,High,Y,Full Time,9,Green,0
+135,HR,High,Y,N,N,10,Y,High,Y,Full Time,16,Green,0
+136,Accounting,High,Y,N,N,10,Y,High,Y,Full Time,20,Green,0
+137,Engineering,High,Y,N,Y,10,Y,High,Y,Full Time,20,Green,0
+138,IT,High,Y,N,N,10,Y,High,Y,Full Time,20,Green,0
+139,Admin,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+140,Sales,High,Y,N,N,10,Y,High,Y,Full Time,15,Green,0
+141,HR,High,Y,N,N,10,Y,High,Y,Full Time,15,Green,0
+142,HR,High,Y,N,N,10,Y,High,Y,Full Time,19,Green,0
+143,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,20,Green,0
+144,IT,High,Y,N,N,10,Y,High,Y,Full Time,15,Green,0
+145,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,20,Green,0
+146,Marketing,High,Y,N,N,10,Y,High,Y,Full Time,20,Green,0
+147,Admin,High,Y,N,N,10,Y,High,Y,Full Time,19,Green,0
+148,Admin,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+149,Marketing,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+150,Finance,High,Y,N,N,10,Y,High,Y,Full Time,18,Green,0
+151,HR,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+152,Sales,High,Y,N,N,10,Y,High,Y,Full Time,16,Green,0
+153,IT,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+154,IT,High,Y,N,Y,10,Y,High,Y,Full Time,9,Green,0
+155,Sales,High,Y,N,N,10,Y,High,Y,Full Time,19,Green,0
+156,Sales,High,Y,N,N,10,Y,High,Y,Full Time,10,Green,0
+157,Accounting,High,Y,N,N,10,Y,High,Y,Full Time,20,Green,0
+158,Accounting,High,Y,N,N,10,Y,High,Y,Full Time,17,Green,0
+159,Finance,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+160,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+161,Marketing,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+162,Legal,High,Y,N,N,10,Y,High,Y,Full Time,17,Green,0
+163,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+164,Sales,High,Y,N,N,10,Y,High,Y,Full Time,20,Green,0
+165,Legal,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+166,IT,High,Y,N,N,10,Y,High,Y,Full Time,15,Green,0
+167,Accounting,High,Y,N,N,10,Y,High,Y,Full Time,17,Green,0
+168,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+169,Legal,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+170,Sales,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+171,Admin,High,Y,N,N,10,Y,High,Y,Full Time,13,Green,0
+172,Legal,High,Y,N,Y,10,Y,High,Y,Full Time,10,Green,0
+173,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,10,Green,0
+174,Sales,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+175,Finance,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+176,IT,High,Y,N,N,10,Y,High,Y,Full Time,15,Green,0
+177,IT,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+178,Legal,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+179,Sales,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+180,IT,High,Y,N,N,10,Y,High,Y,Full Time,18,Green,0
+181,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+182,Legal,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+183,Marketing,High,Y,N,N,10,Y,High,Y,Full Time,16,Green,0
+184,IT,High,Y,N,N,10,Y,High,Y,Full Time,18,Green,0
+185,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,20,Green,0
+186,IT,High,Y,N,N,10,Y,High,Y,Full Time,18,Green,0
+187,Accounting,High,Y,N,N,10,Y,High,Y,Full Time,18,Green,0
+188,Sales,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+189,Marketing,High,Y,N,Y,10,Y,High,Y,Full Time,13,Green,0
+190,Admin,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+191,IT,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+192,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+193,Sales,High,Y,N,N,10,Y,High,Y,Full Time,17,Green,0
+194,Customer Service,High,Y,N,N,10,Y,High,Y,Full Time,18,Green,0
+195,HR,High,Y,N,N,10,Y,High,Y,Full Time,10,Green,0
+196,IT,High,Y,N,N,10,Y,High,Y,Full Time,18,Green,0
+197,Accounting,High,Y,N,N,10,Y,High,Y,Full Time,20,Green,0
+198,IT,High,Y,N,N,10,Y,High,Y,Full Time,10,Green,0
+199,Finance,High,Y,N,N,10,Y,High,Y,Full Time,19,Green,0
+200,Finance,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+201,Legal,High,Y,N,N,3,N,Low,N,Full Time,14,Green,0
+202,Admin,High,Y,N,N,2,N,Low,Y,Full Time,17,Green,0
+203,IT,High,Y,N,Y,5,Y,Low,Y,Full Time,20,Yellow,0
+204,Legal,High,Y,N,N,2,N,Low,Y,Full Time,13,Yellow,0
+205,Marketing,High,Y,N,Y,0,Y,Low,N,Full Time,12,Yellow,0
+206,Marketing,High,Y,N,N,1,N,Low,Y,Full Time,10,Red,0
+207,Legal,High,N,N,N,0,N,Low,N,Full Time,0,Red,0
+208,Admin,High,N,N,Y,1,N,Low,Y,Full Time,1,Yellow,1
+209,IT,High,N,N,N,0,N,Low,N,Full Time,0,Yellow,1
+210,Customer Service,High,N,N,N,0,Y,Low,Y,Full Time,1,Red,1
+211,Legal,High,Y,N,N,8,Y,Medium,Y,Full Time,8,Green,0
+212,Sales,High,Y,N,N,9,Y,High,Y,Full Time,11,Green,0
+213,Engineering,High,Y,N,N,8,Y,Medium,Y,Full Time,9,Green,0
+214,HR,High,Y,N,N,7,Y,High,Y,Full Time,11,Green,0
+215,Finance,High,Y,N,N,9,Y,Medium,Y,Full Time,10,Green,0
+216,Finance,High,Y,N,N,8,Y,Medium,Y,Full Time,9,Green,0
+217,Accounting,High,Y,N,N,10,Y,Medium,Y,Full Time,12,Green,0
+218,Marketing,High,Y,N,N,10,Y,Medium,Y,Full Time,10,Green,0
+219,Marketing,High,Y,N,N,8,Y,Medium,Y,Full Time,13,Green,0
+220,Accounting,High,Y,N,N,9,Y,High,Y,Full Time,13,Green,0
+221,Legal,High,Y,N,N,8,Y,Medium,Y,Full Time,11,Green,0
+222,Marketing,High,Y,N,N,8,Y,Medium,Y,Full Time,9,Green,0
+223,Engineering,High,Y,N,N,8,Y,High,Y,Full Time,13,Green,0
+224,Marketing,High,Y,N,N,8,Y,Medium,Y,Full Time,8,Green,0
+225,Finance,High,Y,N,N,8,Y,Medium,Y,Full Time,8,Green,0
+226,Admin,High,Y,N,N,7,Y,High,Y,Full Time,10,Green,0
+227,Admin,High,Y,N,N,7,Y,High,Y,Full Time,9,Green,0
+228,Sales,High,Y,N,N,8,Y,High,Y,Full Time,12,Green,0
+229,Finance,High,Y,N,N,9,Y,Medium,Y,Full Time,12,Green,0
+230,Sales,High,Y,N,N,7,Y,High,Y,Full Time,9,Green,0
+231,Admin,High,Y,N,N,9,Y,High,Y,Full Time,8,Green,0
+232,IT,High,Y,N,N,7,Y,High,Y,Full Time,12,Green,0
+233,Sales,High,Y,N,N,7,Y,High,Y,Full Time,12,Green,0
+234,Accounting,High,Y,N,N,10,Y,High,Y,Full Time,12,Green,0
+235,Finance,High,Y,N,N,9,Y,High,Y,Full Time,10,Green,0
+236,Legal,High,Y,N,N,10,Y,High,Y,Full Time,9,Green,0
+237,HR,High,Y,N,N,7,Y,Medium,Y,Full Time,12,Green,0
+238,Engineering,High,Y,N,N,10,Y,Medium,Y,Full Time,9,Green,0
+239,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,10,Green,0
+240,Customer Service,High,Y,N,N,9,Y,Medium,Y,Full Time,8,Green,0
+241,Customer Service,High,Y,N,N,8,Y,High,Y,Full Time,12,Green,0
+242,Engineering,High,Y,N,N,10,Y,High,Y,Full Time,13,Green,0
+243,Accounting,High,Y,N,N,10,Y,High,Y,Full Time,13,Green,0
+244,Admin,High,Y,N,N,9,Y,High,Y,Full Time,11,Green,0
+245,IT,High,Y,N,N,10,Y,High,Y,Full Time,13,Green,0
+246,Legal,High,Y,N,N,8,Y,Medium,Y,Full Time,10,Green,0
+247,Sales,High,Y,N,N,10,Y,High,Y,Full Time,8,Green,0
+248,Accounting,High,Y,N,N,10,Y,Medium,Y,Full Time,9,Green,0
+249,HR,High,Y,N,N,7,Y,High,Y,Full Time,8,Green,0
+250,Finance,High,Y,N,N,10,Y,Medium,Y,Full Time,11,Green,0
+251,IT,High,Y,N,N,7,Y,Medium,Y,Full Time,13,Green,0
+252,Finance,High,Y,N,N,9,Y,High,Y,Full Time,13,Green,0
+253,Accounting,High,Y,N,N,10,Y,Medium,Y,Full Time,8,Green,0
+254,Legal,High,Y,N,N,8,Y,Medium,Y,Full Time,8,Green,0
+255,Marketing,High,Y,N,N,9,Y,Medium,Y,Full Time,10,Green,0
+256,Marketing,High,Y,N,N,8,Y,High,Y,Full Time,12,Green,0
+257,Admin,High,Y,N,N,7,Y,High,Y,Full Time,10,Green,0
+258,Admin,High,Y,N,N,7,Y,Medium,Y,Full Time,10,Green,0
+259,IT,High,Y,N,N,8,Y,Medium,Y,Full Time,8,Green,0
+260,Legal,High,Y,N,N,9,Y,Medium,Y,Full Time,8,Green,0
+261,Accounting,High,Y,N,N,7,Y,High,Y,Full Time,11,Green,0
+262,IT,High,Y,N,N,10,Y,High,Y,Full Time,10,Green,0
+263,Finance,High,Y,N,N,9,Y,High,Y,Full Time,10,Green,0
+264,Accounting,High,Y,N,N,10,Y,Medium,Y,Full Time,11,Green,0
+265,Engineering,High,Y,N,N,10,Y,Medium,Y,Full Time,8,Green,0
+266,Legal,High,Y,N,N,9,Y,Medium,Y,Full Time,11,Green,0
+267,Finance,High,Y,N,N,9,Y,Medium,Y,Full Time,8,Green,0
+268,Engineering,High,Y,N,N,10,Y,Medium,Y,Full Time,12,Green,1
+269,Admin,High,Y,N,N,9,Y,High,Y,Full Time,13,Green,0
+270,Sales,High,Y,N,N,9,Y,High,Y,Full Time,12,Green,0
+271,Legal,High,Y,N,N,7,Y,High,Y,Full Time,9,Green,0
+272,Admin,High,Y,N,N,9,Y,Medium,Y,Full Time,13,Green,0
+273,HR,High,Y,N,N,7,Y,High,Y,Full Time,13,Green,0
+274,Engineering,High,Y,N,N,8,Y,Medium,Y,Full Time,8,Green,0
+275,Legal,High,Y,N,N,10,Y,High,Y,Full Time,11,Green,0
+276,Finance,High,Y,N,N,8,Y,Low,Y,Full Time,13,Green,1
+277,Accounting,High,Y,N,N,8,Y,Medium,Y,Full Time,11,Green,0
+278,Finance,High,Y,N,N,7,Y,Medium,Y,Full Time,8,Green,0
+279,Customer Service,High,Y,N,N,7,Y,High,Y,Full Time,9,Green,0
+280,Engineering,High,Y,N,N,9,Y,High,Y,Full Time,11,Green,0
+281,IT,High,Y,N,N,8,Y,Medium,Y,Full Time,12,Green,0
+282,Finance,High,Y,N,N,9,Y,Low,N,Full Time,12,Green,1
+283,Finance,High,Y,N,N,8,Y,Medium,N,Full Time,8,Green,0
+284,Sales,High,Y,N,N,8,Y,High,N,Full Time,8,Green,0
+285,Engineering,High,Y,N,N,9,Y,Medium,N,Full Time,13,Green,0
+286,Engineering,High,Y,N,N,10,Y,High,N,Full Time,5,Green,0
+287,Legal,High,Y,N,N,10,Y,Medium,N,Full Time,4,Green,0
+288,Engineering,High,Y,N,N,10,Y,Low,N,Full Time,3,Green,1
+289,Engineering,High,Y,N,N,9,Y,Medium,N,Full Time,2,Green,0
+290,Marketing,High,Y,N,N,7,Y,High,N,Full Time,1,Green,0
+291,Customer Service,High,Y,N,N,9,Y,Medium,N,Full Time,2,Green,0
+292,IT,High,Y,N,N,9,Y,Medium,N,Full Time,3,Green,0
+293,HR,High,Y,N,N,10,Y,Medium,N,Full Time,4,Green,0
+294,Sales,High,Y,N,N,9,Y,High,N,Full Time,4,Green,0
+295,Marketing,High,Y,N,N,9,Y,Low,Y,Full Time,9,Yellow,0
+296,Legal,High,Y,N,N,9,Y,Medium,Y,Full Time,3,Yellow,0
+297,HR,High,Y,N,N,10,Y,High,Y,Full Time,10,Yellow,0
+298,Customer Service,High,Y,N,N,9,Y,High,Y,Full Time,14,Yellow,0
+299,IT,High,Y,N,N,8,Y,Medium,Y,Full Time,13,Yellow,0
+300,IT,High,Y,N,N,9,Y,Medium,Y,Full Time,12,Yellow,0
+301,Sales,High,Y,N,N,9,N,High,Y,Full Time,9,Yellow,0
+302,Admin,High,Y,N,N,7,Y,Medium,Y,Full Time,8,Yellow,0
+303,Marketing,High,Y,N,N,9,Y,High,Y,Full Time,3,Yellow,0
+304,Finance,High,Y,N,N,7,Y,Medium,Y,Full Time,1,Yellow,0
+305,Admin,High,Y,N,N,10,N,High,Y,Full Time,2,Yellow,0
+306,Accounting,High,Y,N,N,8,Y,Medium,Y,Full Time,5,Yellow,0
+307,Admin,High,N,N,N,2,Y,Medium,Y,Full Time,0,Red,1
+308,Finance,High,N,N,Y,4,N,Medium,Y,Full Time,3,Red,0
+309,Marketing,High,N,N,Y,2,Y,Medium,Y,Full Time,3,Red,1
+310,Accounting,High,N,N,N,4,N,High,Y,Full Time,5,Red,1
+311,Marketing,High,N,N,N,3,Y,Medium,Y,Full Time,2,Red,0
+312,Finance,High,N,N,N,0,Y,High,Y,Full Time,3,Red,0
+313,Marketing,High,N,N,N,2,N,High,Y,Full Time,2,Red,0
+314,Marketing,High,N,N,Y,1,Y,Medium,Y,Full Time,4,Red,0
+315,IT,High,N,N,N,0,Y,High,Y,Full Time,2,Red,0
+316,Marketing,High,N,N,Y,0,N,High,N,Full Time,4,Yellow,0
+317,Sales,High,N,N,N,4,Y,High,N,Full Time,2,Yellow,1
+318,Marketing,High,N,N,N,2,Y,Medium,N,Full Time,1,Yellow,1
+319,Legal,High,N,N,Y,4,Y,High,N,Full Time,1,Yellow,0
+320,Admin,High,N,N,Y,3,N,Medium,N,Full Time,3,Yellow,0
+321,HR,High,N,N,N,4,Y,Medium,N,Full Time,5,Yellow,1
+322,Sales,High,N,N,Y,2,N,Medium,N,Full Time,3,Yellow,0
+323,IT,High,N,N,Y,0,N,High,N,Full Time,0,Yellow,0
+324,Accounting,High,N,N,N,3,N,Low,N,Full Time,1,Yellow,0
+325,Legal,High,N,N,Y,3,N,High,N,Full Time,2,Yellow,0
+326,Customer Service,High,N,N,Y,1,N,High,N,Full Time,3,Yellow,1
+327,Engineering,High,N,N,Y,0,N,High,N,Full Time,4,Yellow,0
+328,Legal,High,N,N,N,2,N,Medium,N,Full Time,0,Yellow,0
+329,Engineering,High,N,N,Y,0,N,Medium,N,Full Time,1,Yellow,1
+330,HR,High,N,N,Y,0,N,Low,Y,Full Time,4,Yellow,0
+331,Admin,High,N,N,Y,3,N,High,N,Full Time,2,Yellow,0
+332,Legal,High,N,N,N,0,N,Low,Y,Full Time,3,Yellow,0
+333,Customer Service,High,N,N,Y,2,N,Medium,N,Full Time,0,Yellow,0
+334,IT,High,N,N,N,2,N,Medium,N,Full Time,1,Yellow,0
+335,Legal,High,N,N,Y,0,N,Medium,Y,Full Time,2,Yellow,0
+336,HR,High,N,N,Y,4,N,High,N,Full Time,5,Yellow,0
+337,Accounting,High,N,N,Y,0,N,Medium,N,Full Time,4,Yellow,1
+338,Admin,High,N,N,Y,2,N,Low,Y,Full Time,2,Green,0
+339,Admin,High,N,N,Y,4,N,Medium,N,Full Time,4,Green,1
+340,Sales,High,N,N,Y,4,N,Medium,N,Full Time,0,Green,1
+341,Engineering,High,N,N,N,2,N,High,Y,Full Time,5,Green,0
+342,Customer Service,High,N,N,Y,1,N,Low,N,Full Time,4,Green,1
+343,Engineering,High,N,N,N,2,N,Medium,Y,Full Time,5,Green,0
+344,Accounting,High,N,N,Y,3,N,Medium,Y,Full Time,3,Green,0
+345,IT,High,N,N,N,2,N,Low,N,Full Time,4,Green,1
+346,Marketing,High,N,N,Y,3,N,High,Y,Full Time,5,Green,0
+347,Customer Service,High,N,N,Y,0,N,High,Y,Full Time,2,Green,1
+348,Admin,High,N,N,N,0,N,Low,Y,Full Time,5,Green,0
+349,Admin,Medium,Y,N,N,9,Y,High,Y,Full Time,15,Green,0
+350,Admin,Medium,Y,N,N,9,Y,Medium,Y,Full Time,13,Green,0
+351,Legal,Medium,Y,N,N,8,Y,Medium,Y,Full Time,11,Green,0
+352,Admin,Medium,Y,N,N,9,Y,High,Y,Full Time,11,Green,0
+353,HR,Medium,Y,N,N,8,Y,Medium,Y,Full Time,11,Green,0
+354,IT,Medium,Y,N,N,10,Y,Low,Y,Full Time,17,Green,0
+355,Accounting,Medium,Y,N,N,9,Y,Medium,Y,Full Time,10,Green,0
+356,Legal,High,Y,N,N,9,Y,High,Y,Full Time,14,Green,0
+357,Customer Service,Medium,Y,N,N,7,Y,High,Y,Full Time,17,Green,0
+358,Legal,Medium,Y,N,N,10,Y,High,Y,Full Time,16,Green,0
+359,Engineering,Medium,Y,N,N,8,Y,Medium,Y,Full Time,12,Green,0
+360,Marketing,Medium,Y,N,N,10,Y,Medium,Y,Full Time,10,Green,0
+361,Accounting,Medium,Y,N,N,8,Y,Medium,Y,Full Time,20,Green,0
+362,Engineering,Medium,Y,N,N,7,Y,High,Y,Full Time,13,Green,0
+363,Admin,Medium,Y,N,N,8,Y,High,Y,Full Time,10,Green,0
+364,HR,Medium,N,N,N,7,Y,High,Y,Full Time,12,Green,0
+365,Marketing,Medium,N,N,N,10,Y,Medium,Y,Full Time,14,Green,0
+366,Accounting,Medium,N,N,N,9,Y,Medium,Y,Full Time,15,Green,0
+367,Legal,Medium,N,Y,N,8,Y,High,Y,Full Time,17,Green,0
+368,Accounting,Medium,N,Y,N,10,Y,Medium,Y,Full Time,19,Green,0
+369,Sales,Medium,N,N,N,10,Y,Medium,Y,Full Time,17,Green,0
+370,IT,Medium,N,N,N,7,Y,Medium,Y,Full Time,18,Green,0
+371,Finance,High,N,N,N,9,Y,Low,Y,Full Time,20,Green,0
+372,Finance,Medium,N,Y,N,8,Y,High,Y,Full Time,11,Green,0
+373,Customer Service,Medium,N,Y,N,10,Y,Medium,Y,Full Time,16,Green,0
+374,Customer Service,Medium,N,N,N,8,Y,Medium,Y,Full Time,16,Green,0
+375,IT,Medium,N,N,N,10,Y,High,Y,Full Time,14,Green,0
+376,Sales,Medium,N,N,N,7,Y,Medium,Y,Full Time,20,Green,0
+377,Engineering,Medium,N,Y,N,7,Y,Medium,Y,Full Time,20,Green,0
+378,Engineering,Medium,N,Y,N,9,Y,Medium,Y,Full Time,20,Green,0
+379,Legal,Medium,N,Y,N,8,Y,Medium,Y,Full Time,10,Green,0
+380,Legal,Medium,N,N,N,7,Y,High,Y,Full Time,12,Green,0
+381,Finance,Medium,N,N,N,8,Y,Medium,Y,Full Time,13,Green,0
+382,Customer Service,Medium,N,N,N,7,Y,High,Y,Full Time,14,Green,0
+383,Sales,Medium,N,N,N,7,Y,Medium,Y,Full Time,20,Green,0
+384,Accounting,Medium,N,N,N,10,Y,Medium,Y,Full Time,11,Green,0
+385,Marketing,High,N,N,N,10,Y,High,Y,Full Time,11,Green,0
+386,Finance,Medium,Y,N,N,7,Y,Medium,Y,Full Time,18,Green,0
+387,Customer Service,Medium,Y,N,N,7,Y,High,Y,Full Time,17,Green,0
+388,Admin,Medium,Y,N,N,8,Y,High,Y,Full Time,17,Green,0
+389,Sales,Medium,Y,N,N,7,Y,High,Y,Full Time,19,Green,0
+390,Legal,Medium,Y,N,N,10,Y,High,Y,Full Time,16,Green,0
+391,Engineering,Medium,Y,N,N,9,Y,Medium,Y,Full Time,13,Green,0
+392,Legal,Medium,Y,N,N,10,Y,Medium,Y,Full Time,17,Green,0
+393,Engineering,Medium,Y,N,N,7,Y,High,Y,Full Time,11,Green,0
+394,Engineering,Medium,Y,N,N,7,Y,Medium,Y,Full Time,20,Green,0
+395,HR,High,Y,N,N,7,Y,High,Y,Full Time,14,Green,0
+396,HR,High,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+397,Marketing,Medium,Y,N,N,9,Y,Medium,Y,Full Time,14,Green,0
+398,Customer Service,Medium,Y,N,N,10,Y,Medium,Y,Full Time,10,Green,0
+399,Legal,Medium,Y,N,N,8,Y,High,Y,Full Time,19,Green,1
+400,Sales,Medium,Y,N,N,7,Y,Medium,Y,Full Time,11,Green,0
+401,Legal,Medium,Y,N,N,8,Y,Low,Y,Full Time,15,Green,0
+402,HR,Medium,Y,N,N,9,Y,High,Y,Full Time,15,Green,0
+403,Accounting,Medium,Y,N,N,8,Y,High,Y,Full Time,15,Green,0
+404,Admin,Medium,Y,N,N,7,Y,High,Y,Full Time,10,Green,0
+405,Marketing,Medium,Y,N,N,10,Y,Medium,Y,Full Time,16,Green,0
+406,Marketing,Medium,Y,N,N,10,Y,High,Y,Full Time,14,Green,0
+407,HR,High,Y,N,N,10,Y,Medium,Y,Full Time,14,Green,0
+408,Finance,Medium,N,Y,N,7,Y,High,Y,Full Time,20,Green,0
+409,Customer Service,Medium,N,Y,N,10,Y,Medium,Y,Full Time,11,Green,0
+410,HR,Medium,N,Y,N,9,Y,Medium,Y,Full Time,15,Green,1
+411,Admin,Medium,N,Y,N,10,Y,Medium,Y,Full Time,20,Green,0
+412,Legal,Medium,N,Y,N,7,Y,High,Y,Full Time,17,Green,0
+413,Customer Service,Medium,N,N,N,9,Y,Medium,Y,Full Time,17,Green,0
+414,Finance,Medium,N,N,N,7,N,Medium,Y,Full Time,17,Green,0
+415,HR,Medium,N,N,N,9,N,Medium,Y,Full Time,5,Green,0
+416,Admin,Medium,N,N,N,9,N,Medium,Y,Full Time,6,Green,0
+417,IT,Medium,N,N,N,10,N,Medium,Y,Full Time,5,Green,0
+418,Customer Service,Medium,Y,N,N,10,N,Medium,Y,Full Time,8,Green,0
+419,Customer Service,Medium,Y,N,N,8,N,Low,Y,Full Time,7,Green,0
+420,Legal,Medium,Y,N,N,10,N,High,Y,Full Time,4,Green,0
+421,Legal,Medium,Y,N,N,8,N,Medium,Y,Full Time,9,Green,1
+422,Accounting,Medium,Y,N,N,10,N,Medium,Y,Full Time,8,Green,0
+423,Finance,Medium,Y,N,N,8,N,Medium,Y,Full Time,9,Green,0
+424,Engineering,Medium,Y,N,N,8,N,Medium,Y,Full Time,8,Green,0
+425,Legal,Medium,N,N,N,9,N,High,Y,Full Time,6,Green,0
+426,Sales,Medium,N,N,N,9,N,Medium,Y,Full Time,9,Green,0
+427,Customer Service,Medium,N,N,N,9,Y,High,Y,Full Time,7,Green,0
+428,Legal,Medium,N,N,N,8,Y,Medium,Y,Full Time,5,Green,0
+429,Finance,Medium,N,N,N,10,Y,High,Y,Full Time,6,Green,0
+430,Accounting,Medium,N,N,N,7,Y,Medium,Y,Full Time,4,Green,0
+431,Customer Service,Medium,N,N,N,9,Y,High,Y,Full Time,7,Green,0
+432,Finance,Medium,N,N,N,9,Y,Low,Y,Full Time,5,Green,0
+433,Customer Service,Medium,N,N,N,8,Y,High,Y,Full Time,8,Green,0
+434,IT,Medium,N,N,N,8,Y,Medium,Y,Full Time,9,Green,0
+435,Accounting,Medium,N,N,N,9,Y,Medium,Y,Full Time,4,Green,0
+436,Customer Service,Medium,N,N,N,7,Y,Medium,Y,Full Time,8,Green,0
+437,Finance,Medium,N,N,N,7,Y,Medium,N,Full Time,5,Green,0
+438,Sales,Medium,N,N,N,7,Y,High,N,Full Time,7,Green,0
+439,Marketing,Medium,N,N,N,10,Y,Medium,N,Full Time,6,Yellow,0
+440,Sales,Medium,N,N,N,7,Y,Medium,N,Full Time,8,Yellow,0
+441,Legal,Medium,N,N,N,9,Y,Medium,N,Full Time,4,Yellow,0
+442,Accounting,Medium,N,N,N,9,Y,High,N,Full Time,5,Yellow,0
+443,IT,Medium,N,N,N,8,Y,High,N,Full Time,9,Yellow,0
+444,Sales,Medium,N,N,N,10,Y,Medium,N,Full Time,9,Yellow,0
+445,Legal,Medium,N,N,N,10,Y,High,N,Full Time,9,Yellow,0
+446,Finance,Medium,N,N,N,7,Y,Medium,N,Full Time,8,Yellow,0
+447,Accounting,Medium,N,N,N,8,Y,Medium,N,Full Time,6,Yellow,0
+448,Admin,Medium,N,N,N,10,Y,High,N,Full Time,10,Yellow,0
+449,HR,Medium,N,N,N,9,Y,High,N,Full Time,10,Yellow,0
+450,IT,Medium,N,N,N,10,Y,High,N,Full Time,10,Yellow,0
+451,Legal,Medium,N,N,N,8,Y,Medium,N,Full Time,6,Yellow,0
+452,Admin,Medium,N,N,N,8,Y,High,N,Full Time,6,Yellow,1
+453,Admin,High,N,N,N,10,Y,High,N,Full Time,10,Yellow,0
+454,IT,Medium,N,N,N,8,Y,Low,N,Full Time,5,Yellow,0
+455,Admin,Medium,N,N,N,9,Y,Medium,N,Full Time,5,Yellow,0
+456,Admin,Medium,N,N,N,9,Y,Medium,N,Full Time,8,Yellow,0
+457,Customer Service,Medium,N,N,N,7,Y,High,N,Full Time,10,Yellow,0
+458,Marketing,Medium,N,N,N,7,Y,Medium,N,Full Time,7,Yellow,0
+459,Admin,Medium,N,N,N,10,Y,High,N,Full Time,5,Yellow,0
+460,Marketing,Medium,N,N,N,10,Y,Medium,N,Full Time,5,Yellow,0
+461,Sales,Medium,N,N,N,10,Y,Medium,N,Full Time,6,Yellow,0
+462,Admin,Medium,N,N,N,7,Y,Medium,N,Full Time,10,Yellow,0
+463,Sales,Medium,N,N,N,8,N,Medium,N,Full Time,10,Yellow,0
+464,Sales,Medium,N,N,N,10,N,Medium,N,Full Time,9,Yellow,0
+465,HR,Medium,N,N,N,7,N,Medium,N,Full Time,9,Yellow,0
+466,Legal,Medium,N,N,N,9,N,Medium,Y,Full Time,6,Yellow,0
+467,Customer Service,Medium,N,N,N,7,N,Medium,Y,Full Time,8,Yellow,0
+468,Admin,High,N,N,N,8,N,High,Y,Full Time,7,Yellow,0
+469,Accounting,Medium,N,N,N,7,N,Medium,Y,Full Time,6,Yellow,0
+470,Marketing,Medium,N,N,N,7,N,Medium,Y,Full Time,10,Green,0
+471,Marketing,High,N,N,N,6,N,High,Y,Full Time,6,Green,0
+472,IT,Medium,N,N,N,5,N,High,Y,Full Time,10,Green,0
+473,Finance,Medium,N,N,N,4,N,High,Y,Full Time,7,Green,0
+474,IT,Medium,N,N,N,4,N,High,Y,Full Time,8,Green,0
+475,Customer Service,Medium,N,N,N,6,Y,High,Y,Full Time,10,Green,0
+476,Engineering,Medium,N,N,N,5,Y,Medium,Y,Full Time,5,Green,0
+477,Marketing,Medium,N,N,N,4,Y,Medium,Y,Full Time,5,Green,0
+478,Customer Service,Medium,N,N,N,6,Y,High,Y,Full Time,6,Green,0
+479,Legal,Medium,N,N,N,4,Y,High,Y,Full Time,9,Green,0
+480,Marketing,Medium,N,N,N,5,Y,Medium,Y,Full Time,10,Green,0
+481,Customer Service,High,N,N,N,5,Y,Medium,Y,Full Time,5,Green,0
+482,Engineering,Medium,N,N,N,4,Y,High,Y,Full Time,9,Green,0
+483,Engineering,Medium,N,N,N,6,Y,Medium,Y,Full Time,5,Green,0
+484,IT,Medium,N,N,N,6,Y,Medium,Y,Full Time,6,Green,0
+485,Sales,Medium,N,N,N,6,Y,Medium,Y,Full Time,9,Green,0
+486,Legal,High,N,N,N,6,Y,High,Y,Full Time,9,Green,0
+487,Sales,High,N,N,N,6,Y,Medium,Y,Full Time,5,Green,0
+488,Marketing,Medium,N,N,N,4,Y,High,Y,Full Time,6,Green,0
+489,Customer Service,Medium,N,N,N,4,Y,Medium,Y,Full Time,7,Green,0
+490,Finance,Medium,N,N,N,4,Y,High,Y,Full Time,9,Green,0
+491,Finance,Medium,N,N,N,6,Y,High,Y,Full Time,7,Green,0
+492,Admin,Medium,N,N,N,6,Y,High,Y,Full Time,5,Green,0
+493,HR,Medium,N,N,N,6,Y,High,Y,Full Time,7,Green,0
+494,IT,Medium,N,N,N,5,Y,Medium,Y,Full Time,10,Green,0
+495,Marketing,Medium,N,N,N,6,Y,Medium,Y,Full Time,5,Green,0
+496,Accounting,Medium,N,N,N,6,Y,Medium,Y,Full Time,8,Green,0
+497,HR,Medium,N,N,N,6,Y,Medium,Y,Full Time,5,Green,0
+498,Sales,Medium,N,N,N,4,Y,Medium,Y,Full Time,9,Green,0
+499,Marketing,Medium,N,N,N,6,Y,Medium,N,Full Time,5,Green,0
+500,Finance,Medium,N,N,N,4,N,High,N,Full Time,8,Green,0
+501,HR,Medium,Y,N,N,5,N,Medium,N,Full Time,10,Green,0
+502,Accounting,Medium,Y,N,N,0,N,Medium,N,Full Time,5,Green,0
+503,Finance,Medium,Y,N,N,0,N,Medium,N,Full Time,7,Green,0
+504,Admin,Medium,Y,N,N,2,N,Medium,N,Full Time,2,Yellow,0
+505,Sales,Medium,Y,N,N,3,N,Medium,N,Full Time,1,Yellow,0
+506,HR,Medium,Y,N,N,0,N,Low,N,Full Time,1,Yellow,0
+507,Marketing,Medium,Y,N,N,2,N,Low,N,Full Time,4,Yellow,0
+508,Engineering,Medium,Y,N,N,2,N,Low,N,Full Time,2,Yellow,0
+509,HR,High,Y,N,N,0,N,Low,N,Full Time,1,Yellow,0
+510,Accounting,Medium,Y,N,N,1,N,Low,N,Full Time,1,Yellow,0
+511,Admin,Medium,Y,N,N,1,N,Low,N,Full Time,4,Red,1
+512,HR,Medium,N,N,N,1,N,Low,N,Full Time,1,Red,1
+513,Sales,Medium,N,N,N,0,N,Low,N,Full Time,0,Red,1
+514,Legal,Medium,N,N,N,3,N,Low,N,Full Time,0,Red,0
+515,Sales,Medium,N,N,N,0,N,Low,N,Full Time,2,Red,0
+516,Accounting,Medium,N,N,N,0,N,Low,N,Full Time,4,Red,0
+517,Admin,Medium,N,N,N,1,N,Low,N,Full Time,1,Red,0
+518,Engineering,Medium,N,N,N,1,N,Medium,N,Full Time,3,Red,0
+519,Customer Service,High,N,N,N,0,N,Medium,N,Full Time,0,Red,0
+520,IT,High,N,N,N,1,N,Medium,N,Full Time,15,Red,0
+521,Sales,Medium,N,N,N,0,N,Medium,N,Full Time,12,Red,0
+522,Accounting,Medium,N,N,N,2,N,Medium,N,Full Time,13,Red,0
+523,Finance,Medium,N,N,N,2,N,Medium,N,Full Time,13,Yellow,0
+524,IT,Medium,N,N,N,0,N,Medium,N,Full Time,12,Yellow,0
+525,Marketing,Medium,N,N,N,2,N,Medium,N,Full Time,13,Yellow,0
+526,Sales,Medium,N,N,N,0,N,Medium,N,Full Time,12,Yellow,0
+527,Accounting,Medium,N,N,N,0,N,Medium,N,Full Time,14,Yellow,0
+528,HR,Medium,N,N,N,3,N,Medium,Y,Full Time,14,Yellow,0
+529,HR,Medium,N,N,N,0,N,Medium,Y,Full Time,10,Yellow,0
+530,Customer Service,High,N,N,N,2,N,Low,Y,Full Time,10,Yellow,0
+531,Customer Service,Medium,N,N,N,0,N,Low,Y,Full Time,10,Yellow,0
+532,IT,Medium,N,N,N,3,Y,Low,Y,Full Time,15,Yellow,1
+533,HR,Medium,N,N,N,3,Y,Low,Y,Full Time,15,Yellow,0
+534,Legal,Medium,N,N,N,2,Y,Low,Y,Full Time,11,Yellow,1
+535,Finance,Medium,N,N,N,1,Y,Low,Y,Full Time,12,Yellow,1
+536,Marketing,High,N,N,N,3,Y,Low,Y,Full Time,13,Yellow,0
+537,Admin,Medium,N,N,N,3,Y,Low,N,Full Time,14,Yellow,0
+538,IT,Medium,N,N,N,2,Y,Low,N,Full Time,10,Red,0
+539,Sales,High,N,N,N,1,Y,Low,N,Full Time,11,Red,0
+540,Finance,Medium,N,N,N,1,Y,Low,N,Full Time,13,Red,1
+541,IT,Medium,N,N,N,0,Y,Low,N,Full Time,3,Red,1
+542,Sales,Medium,N,N,N,0,Y,Low,N,Full Time,4,Red,1
+543,Sales,Medium,N,N,N,0,N,Low,N,Full Time,2,Red,1
+544,Admin,High,N,N,N,2,N,Low,N,Full Time,3,Red,0
+545,Finance,Medium,N,N,N,2,N,Low,N,Full Time,4,Red,0
+546,Admin,Medium,N,N,N,1,N,Low,N,Full Time,2,Red,0
+547,Sales,Medium,N,N,N,1,N,Low,N,Full Time,2,Red,0
+548,Finance,Medium,N,N,N,0,N,Medium,N,Full Time,4,Red,0
+549,Marketing,Medium,N,N,N,0,N,Medium,N,Full Time,4,Red,0
+550,Accounting,Medium,N,N,N,3,N,Medium,N,Full Time,4,Red,1
+551,Finance,Medium,N,N,N,3,N,Medium,N,Full Time,2,Red,1
+552,Admin,Medium,N,N,N,1,N,Medium,N,Full Time,2,Red,1
+553,Sales,Medium,N,N,N,3,N,Medium,N,Full Time,3,Red,1
+554,HR,Medium,N,N,N,3,N,Medium,N,Full Time,4,Red,1
+555,Engineering,Medium,N,N,N,2,N,Medium,N,Full Time,2,Red,0
+556,IT,Medium,N,N,N,3,N,Medium,N,Full Time,2,Red,0
+557,Finance,Medium,N,N,N,3,N,Medium,N,Full Time,2,Yellow,0
+558,IT,Medium,N,N,N,2,N,Medium,N,Full Time,4,Yellow,1
+559,HR,Medium,N,N,N,0,N,Medium,N,Full Time,2,Yellow,1
+560,Marketing,Medium,N,N,N,0,N,Medium,N,Full Time,4,Yellow,1
+561,Sales,Medium,N,N,N,3,N,Medium,N,Full Time,0,Yellow,1
+562,Engineering,High,N,N,N,2,N,Medium,N,Full Time,0,Yellow,0
+563,Marketing,Medium,N,N,N,1,N,Medium,N,Full Time,0,Yellow,1
+564,Marketing,Medium,N,N,N,2,N,Medium,N,Full Time,0,Yellow,1
+565,Accounting,Medium,N,N,Y,0,N,Medium,N,Full Time,0,Yellow,1
+566,IT,Medium,N,N,Y,3,N,Low,N,Full Time,0,Yellow,1
+567,Finance,Medium,N,N,Y,3,N,Low,N,Full Time,1,Yellow,0
+568,Customer Service,Medium,N,N,Y,0,N,Low,N,Full Time,1,Yellow,0
+569,Admin,Medium,N,N,Y,0,N,Low,N,Full Time,2,Yellow,0
+570,Sales,Medium,N,N,Y,0,N,Low,N,Full Time,1,Yellow,0
+571,Engineering,Medium,N,N,Y,0,N,Low,N,Full Time,2,Yellow,0
+572,Accounting,Medium,N,N,Y,2,N,Low,N,Full Time,0,Yellow,1
+573,Finance,High,N,N,Y,0,N,Low,N,Full Time,5,Yellow,1
+574,Sales,Medium,N,N,Y,3,N,Low,N,Full Time,4,Yellow,1
+575,Marketing,Medium,N,N,Y,1,N,Low,N,Full Time,5,Yellow,1
+576,Legal,Medium,N,N,Y,1,N,Low,N,Full Time,6,Red,0
+577,Accounting,Medium,N,N,Y,2,N,Low,N,Full Time,0,Red,1
+578,Legal,Medium,N,N,Y,0,N,Low,N,Full Time,0,Red,1
+579,Marketing,Medium,N,N,Y,1,N,Low,Y,Full Time,0,Red,1
+580,Legal,Medium,N,N,Y,0,N,Low,Y,Full Time,0,Red,1
+581,Customer Service,Medium,N,N,Y,1,N,Low,Y,Full Time,1,Red,1
+582,Accounting,Medium,N,N,Y,0,N,Low,Y,Full Time,0,Red,0
+583,Marketing,Medium,N,N,Y,3,N,Low,Y,Full Time,1,Red,0
+584,Sales,Medium,N,N,Y,0,N,Low,Y,Full Time,0,Red,0
+585,Admin,Medium,N,N,Y,0,N,Low,Y,Full Time,1,Red,0
+586,Marketing,Medium,N,N,Y,1,N,Low,Y,Full Time,5,Red,1
+587,Customer Service,High,N,N,Y,1,N,Low,Y,Full Time,6,Red,1
+588,Legal,High,N,N,Y,3,N,Low,Y,Full Time,5,Red,1
+589,Admin,Medium,N,N,Y,3,N,Low,Y,Full Time,8,Red,1
+590,Legal,Medium,N,N,Y,2,N,Low,N,Full Time,1,Red,0
+591,Accounting,Medium,N,N,Y,3,N,Low,N,Full Time,0,Red,1
+592,Legal,Medium,N,N,Y,2,N,Low,N,Full Time,2,Red,1
+593,Engineering,Medium,N,N,Y,2,N,Low,N,Full Time,3,Red,1
+594,IT,Medium,N,N,Y,2,N,Low,N,Full Time,4,Red,1
+595,Customer Service,High,N,N,Y,3,N,Low,N,Full Time,3,Red,0
+596,Engineering,Medium,N,N,Y,1,N,Low,N,Full Time,2,Red,0
+597,Marketing,Medium,N,N,Y,0,N,Low,N,Full Time,1,Red,0
+598,Admin,High,N,N,Y,2,N,Low,N,Full Time,5,Red,1
+599,IT,Medium,N,N,Y,0,N,Low,N,Full Time,0,Red,0
+600,Customer Service,Medium,N,N,Y,2,N,Low,N,Full Time,0,Red,1
+601,IT,Medium,N,Y,N,10,Y,Medium,Y,Full Time,9,Green,0
+602,Admin,Medium,N,Y,N,8,Y,High,Y,Full Time,11,Green,0
+603,Accounting,Low,N,Y,N,9,Y,Medium,Y,Full Time,9,Green,0
+604,Marketing,Medium,N,Y,N,7,Y,High,Y,Full Time,12,Green,0
+605,HR,Low,N,N,N,8,Y,Medium,Y,Full Time,10,Green,0
+606,Finance,Medium,N,N,N,8,Y,High,Y,Full Time,12,Green,0
+607,Finance,Medium,Y,N,N,6,Y,Medium,Y,Full Time,11,Green,0
+608,Marketing,Low,Y,Y,N,10,Y,High,Y,Full Time,10,Green,0
+609,HR,Medium,Y,Y,N,8,Y,Medium,Y,Full Time,12,Green,0
+610,IT,Medium,N,Y,N,9,Y,High,Y,Full Time,10,Green,0
+611,Finance,Medium,N,Y,N,10,Y,Medium,Y,Full Time,11,Green,0
+612,Finance,Low,N,Y,N,8,Y,High,Y,Full Time,12,Green,0
+613,Marketing,Low,N,Y,N,8,Y,Medium,Y,Full Time,12,Green,0
+614,HR,Low,N,N,N,10,Y,High,Y,Full Time,10,Green,0
+615,Legal,Medium,N,N,N,8,Y,Medium,Y,Full Time,12,Green,0
+616,HR,Medium,N,N,N,6,Y,High,Y,Full Time,11,Green,0
+617,HR,Medium,N,N,N,6,Y,Medium,Y,Full Time,11,Green,0
+618,Accounting,Medium,N,N,N,8,Y,High,Y,Full Time,10,Green,0
+619,Accounting,Medium,N,Y,N,10,Y,Medium,Y,Full Time,12,Green,0
+620,Finance,Medium,N,Y,N,8,Y,High,Y,Full Time,10,Green,0
+621,Finance,Medium,N,Y,N,9,Y,Medium,Y,Full Time,11,Green,0
+622,Engineering,Medium,N,Y,N,7,Y,High,Y,Full Time,9,Green,0
+623,Engineering,Low,N,Y,N,6,Y,Medium,Y,Full Time,9,Green,0
+624,Marketing,Medium,N,Y,N,6,Y,High,Y,Full Time,10,Green,0
+625,HR,Medium,N,N,N,10,Y,Medium,Y,Full Time,11,Green,0
+626,Marketing,Medium,N,N,N,8,Y,High,Y,Full Time,10,Green,0
+627,IT,Low,N,N,N,9,Y,Medium,Y,Full Time,4,Green,0
+628,Customer Service,Medium,N,N,N,10,Y,High,Y,Full Time,5,Green,0
+629,HR,Low,N,N,N,6,Y,Medium,Y,Full Time,4,Green,0
+630,Sales,Low,N,N,N,9,Y,High,Y,Full Time,7,Green,0
+631,Customer Service,Medium,N,Y,N,7,Y,Medium,Y,Full Time,4,Green,0
+632,Accounting,Low,N,Y,N,9,Y,High,Y,Full Time,8,Green,0
+633,Engineering,Medium,N,Y,N,10,Y,Medium,Y,Full Time,6,Green,0
+634,HR,Low,N,Y,N,10,Y,High,Y,Full Time,5,Green,0
+635,Finance,Medium,N,Y,N,7,Y,Medium,Y,Full Time,5,Green,0
+636,Customer Service,Medium,N,N,N,9,Y,High,Y,Full Time,5,Green,0
+637,Finance,Medium,N,N,N,6,Y,Medium,Y,Full Time,5,Green,0
+638,Legal,Low,N,Y,N,6,Y,High,Y,Full Time,8,Green,0
+639,Finance,Medium,N,Y,N,7,Y,Medium,Y,Full Time,4,Green,0
+640,Finance,Low,N,N,N,6,Y,High,Y,Full Time,5,Green,0
+641,Accounting,Low,N,N,N,8,Y,Medium,Y,Full Time,6,Green,0
+642,IT,Medium,N,N,N,8,Y,High,Y,Full Time,5,Green,0
+643,Customer Service,Medium,N,N,N,9,Y,Medium,Y,Full Time,7,Green,0
+644,Engineering,Medium,N,Y,N,10,Y,High,Y,Full Time,8,Green,0
+645,IT,Low,N,Y,N,10,Y,Medium,Y,Full Time,8,Green,0
+646,Finance,Medium,N,Y,N,9,Y,High,Y,Full Time,6,Green,0
+647,Engineering,Low,N,Y,N,8,Y,Medium,Y,Full Time,6,Green,0
+648,Admin,Low,N,Y,N,7,Y,High,Y,Full Time,7,Green,0
+649,HR,Medium,N,N,N,9,Y,Medium,Y,Full Time,5,Green,0
+650,Sales,Medium,N,N,N,10,Y,High,Y,Full Time,8,Green,0
+651,Sales,Medium,N,N,N,10,Y,Medium,Y,Full Time,5,Green,0
+652,Marketing,Low,N,N,N,6,Y,High,Y,Full Time,4,Green,0
+653,Sales,Medium,N,N,N,8,Y,Medium,Y,Full Time,4,Green,0
+654,Engineering,Medium,N,N,N,6,Y,High,Y,Full Time,8,Green,0
+655,Engineering,Medium,N,N,N,9,Y,Medium,Y,Full Time,7,Green,0
+656,Accounting,Medium,N,N,N,6,Y,High,Y,Full Time,4,Green,0
+657,Finance,Medium,N,N,N,8,Y,Medium,Y,Full Time,5,Green,0
+658,Legal,Medium,N,N,N,9,Y,High,Y,Full Time,4,Green,0
+659,Admin,Medium,N,N,N,6,Y,Medium,Y,Full Time,3,Green,0
+660,Customer Service,Medium,N,N,N,9,Y,High,N,Full Time,3,Green,0
+661,Finance,Medium,N,N,N,6,Y,Medium,N,Full Time,2,Green,0
+662,Legal,Low,N,N,N,8,Y,High,N,Full Time,3,Green,0
+663,Legal,Low,N,N,N,8,Y,Medium,N,Full Time,3,Green,0
+664,Admin,Low,N,N,N,10,Y,High,N,Full Time,2,Green,0
+665,Customer Service,Low,N,N,N,7,Y,Medium,N,Full Time,2,Green,0
+666,Accounting,Medium,N,N,N,10,Y,High,N,Full Time,4,Green,0
+667,IT,Medium,N,N,N,7,Y,Medium,N,Full Time,3,Green,0
+668,Customer Service,Medium,N,N,N,8,Y,High,N,Full Time,2,Green,0
+669,Admin,Medium,N,N,N,6,Y,Medium,N,Full Time,4,Green,0
+670,Finance,Low,N,N,N,9,Y,High,N,Full Time,3,Green,0
+671,Legal,Medium,N,N,N,7,Y,Medium,N,Full Time,4,Green,0
+672,Customer Service,Medium,N,N,N,10,Y,High,N,Full Time,4,Green,0
+673,Legal,Low,N,N,N,9,Y,Medium,N,Full Time,2,Green,0
+674,Accounting,Medium,N,N,N,9,Y,High,N,Full Time,3,Green,0
+675,Accounting,Low,N,N,N,9,Y,Medium,N,Full Time,3,Green,0
+676,HR,Low,N,N,N,6,Y,High,N,Full Time,2,Green,0
+677,Finance,Medium,N,N,N,6,Y,Medium,N,Full Time,3,Green,0
+678,Accounting,Medium,N,N,N,10,Y,High,N,Full Time,4,Green,0
+679,Sales,Medium,N,N,N,9,Y,Medium,N,Full Time,3,Green,0
+680,Sales,Medium,N,N,N,8,Y,High,N,Full Time,3,Green,0
+681,Marketing,Low,N,N,N,9,Y,Medium,Y,Full Time,3,Green,0
+682,Finance,Low,N,N,N,10,Y,High,Y,Full Time,3,Green,0
+683,Admin,Low,N,N,N,10,Y,Medium,Y,Full Time,3,Green,0
+684,Sales,Medium,N,N,N,6,Y,High,Y,Full Time,2,Green,0
+685,Marketing,Medium,N,N,N,10,Y,Medium,Y,Full Time,3,Green,0
+686,Legal,Medium,N,N,N,7,Y,High,Y,Full Time,4,Green,0
+687,Admin,Medium,N,N,N,10,Y,Medium,Y,Full Time,4,Green,0
+688,Marketing,Medium,N,N,N,9,Y,High,Y,Full Time,2,Green,0
+689,Legal,Medium,N,N,N,9,Y,Medium,Y,Full Time,4,Green,0
+690,Engineering,Low,N,N,N,6,Y,High,Y,Full Time,3,Green,0
+691,Engineering,Medium,N,N,N,10,Y,Medium,Y,Full Time,3,Green,0
+692,Marketing,Low,N,N,N,9,Y,High,Y,Full Time,0,Green,0
+693,IT,Medium,N,N,N,6,Y,Medium,Y,Full Time,2,Green,0
+694,HR,Low,N,N,N,6,Y,High,Y,Full Time,0,Green,0
+695,IT,Low,N,N,N,7,Y,Medium,Y,Full Time,2,Green,0
+696,Marketing,Medium,N,N,N,3,Y,High,Y,Full Time,2,Green,0
+697,Engineering,Medium,N,N,N,2,Y,Medium,Y,Full Time,1,Green,0
+698,IT,Medium,N,N,N,2,Y,High,Y,Full Time,0,Green,0
+699,Accounting,Low,N,N,N,2,Y,Medium,Y,Full Time,0,Green,0
+700,Engineering,Medium,N,N,N,2,Y,High,Y,Full Time,1,Green,0
+701,Legal,Medium,N,N,Y,4,Y,Medium,Y,Full Time,1,Green,0
+702,HR,Low,N,N,Y,4,Y,High,Y,Full Time,1,Green,0
+703,Engineering,Medium,N,N,Y,2,Y,Medium,Y,Full Time,0,Yellow,0
+704,Sales,Low,N,N,Y,2,Y,High,Y,Full Time,2,Yellow,0
+705,Legal,Low,N,N,Y,2,Y,Medium,N,Full Time,1,Yellow,0
+706,Customer Service,Low,N,N,Y,4,Y,High,N,Full Time,2,Yellow,0
+707,Finance,Low,N,N,Y,3,Y,Medium,N,Full Time,2,Yellow,0
+708,Engineering,Medium,N,N,Y,2,Y,High,N,Full Time,0,Yellow,0
+709,IT,Medium,N,N,Y,2,Y,Medium,N,Full Time,0,Yellow,0
+710,Customer Service,Low,N,N,Y,4,Y,High,N,Full Time,1,Yellow,0
+711,Customer Service,Medium,N,N,Y,2,Y,Low,N,Full Time,0,Yellow,0
+712,IT,Medium,N,N,Y,3,Y,Low,N,Full Time,1,Yellow,0
+713,Sales,Medium,N,N,Y,4,Y,Low,N,Full Time,1,Yellow,0
+714,Marketing,Medium,N,N,Y,2,Y,Low,N,Full Time,1,Yellow,0
+715,Finance,Medium,N,N,Y,4,Y,Low,N,Full Time,0,Yellow,0
+716,Accounting,Medium,N,N,Y,3,Y,Low,N,Full Time,1,Yellow,0
+717,Admin,Medium,N,N,Y,3,Y,Low,N,Full Time,0,Red,0
+718,Accounting,Medium,N,N,Y,3,Y,Low,N,Full Time,1,Red,0
+719,HR,Medium,N,N,Y,2,Y,Low,Y,Full Time,1,Red,0
+720,HR,Low,N,N,Y,4,Y,Low,Y,Full Time,0,Red,0
+721,Admin,Low,N,N,Y,4,Y,Medium,Y,Full Time,0,Red,0
+722,Sales,Low,N,N,Y,3,Y,Medium,Y,Full Time,0,Red,0
+723,Sales,Medium,N,N,Y,2,Y,Medium,Y,Full Time,2,Red,0
+724,Legal,Medium,N,N,Y,3,Y,Medium,Y,Full Time,2,Red,0
+725,Marketing,Medium,N,N,Y,2,Y,Medium,Y,Full Time,1,Red,0
+726,HR,Medium,N,N,Y,2,Y,Medium,Y,Full Time,2,Red,0
+727,IT,Medium,N,N,Y,1,Y,Medium,Y,Full Time,1,Red,0
+728,Accounting,Medium,N,N,Y,2,Y,Medium,Y,Full Time,2,Red,0
+729,Accounting,Low,N,N,Y,2,Y,Medium,Y,Full Time,0,Red,0
+730,Engineering,Medium,N,N,Y,1,Y,Medium,Y,Full Time,2,Red,0
+731,Sales,Medium,N,N,Y,2,Y,Medium,N,Full Time,0,Red,0
+732,HR,Low,N,N,Y,1,Y,Medium,N,Full Time,0,Red,0
+733,Legal,Medium,N,N,N,2,N,Medium,N,Full Time,0,Red,0
+734,Customer Service,Low,N,N,N,1,N,Medium,N,Full Time,1,Red,1
+735,Finance,Medium,N,N,N,2,N,Low,N,Full Time,2,Red,0
+736,Legal,Low,N,N,N,1,N,Low,N,Full Time,1,Green,0
+737,Admin,Low,N,N,N,2,N,Low,N,Full Time,1,Green,1
+738,Customer Service,Medium,N,N,N,2,N,Low,N,Full Time,1,Green,0
+739,Marketing,Medium,N,N,N,2,N,Low,N,Full Time,2,Green,1
+740,Sales,Medium,N,N,N,1,N,High,N,Full Time,0,Green,1
+741,IT,Low,N,N,N,0,N,Low,N,Full Time,1,Green,1
+742,Sales,Medium,N,N,N,1,N,Low,N,Full Time,0,Yellow,0
+743,IT,Medium,N,N,N,0,N,Medium,N,Full Time,2,Yellow,0
+744,Sales,Medium,N,N,Y,0,N,Low,N,Full Time,2,Yellow,1
+745,Customer Service,Medium,N,N,Y,2,N,Low,N,Full Time,0,Red,1
+746,Sales,Medium,N,N,Y,0,N,High,N,Full Time,1,Red,1
+747,Admin,Medium,N,N,Y,0,N,Low,N,Full Time,1,Red,0
+748,Accounting,Medium,N,N,Y,0,N,Low,N,Full Time,1,Red,0
+749,Engineering,Low,N,N,Y,1,N,Low,N,Full Time,2,Red,1
+750,Finance,Low,N,N,Y,2,N,Low,N,Full Time,2,Red,1
+751,Customer Service,Low,N,Y,N,8,Y,High,Y,Full Time,11,Green,0
+752,Admin,Low,N,Y,N,9,Y,Medium,Y,Full Time,7,Green,0
+753,HR,Low,N,Y,N,8,Y,Medium,Y,Full Time,8,Red,1
+754,Engineering,Low,N,Y,N,10,Y,Medium,Y,Full Time,11,Red,1
+755,HR,Low,N,Y,N,10,Y,High,Y,Full Time,13,Green,0
+756,Legal,Low,N,Y,N,8,Y,Medium,Y,Full Time,11,Green,0
+757,IT,Low,N,Y,N,10,Y,Medium,Y,Full Time,11,Green,0
+758,IT,Low,N,Y,N,10,Y,Medium,Y,Full Time,14,Green,0
+759,Sales,Low,N,Y,N,9,Y,High,Y,Full Time,12,Green,0
+760,Finance,Low,N,Y,N,8,Y,Medium,Y,Full Time,15,Green,0
+761,Accounting,Low,N,Y,N,10,Y,Medium,Y,Full Time,12,Green,0
+762,Sales,Low,N,Y,N,9,Y,Medium,Y,Full Time,7,Green,0
+763,Finance,Low,N,Y,N,8,Y,High,Y,Full Time,13,Green,0
+764,Finance,Low,N,Y,N,9,Y,Medium,Y,Full Time,7,Green,0
+765,IT,Low,N,Y,N,8,Y,Medium,Y,Full Time,14,Green,0
+766,Customer Service,Low,N,Y,N,8,Y,Medium,Y,Full Time,9,Green,0
+767,Admin,Low,N,Y,N,10,Y,High,Y,Full Time,8,Green,0
+768,Admin,Low,N,Y,N,8,Y,Medium,Y,Full Time,14,Green,0
+769,Customer Service,Low,N,Y,N,10,Y,Medium,Y,Full Time,15,Red,1
+770,Finance,Low,N,Y,N,9,Y,Medium,Y,Full Time,7,Red,1
+771,Admin,Low,N,Y,N,8,Y,High,Y,Full Time,12,Red,1
+772,Sales,Low,N,Y,N,9,Y,Medium,Y,Full Time,14,Red,1
+773,Sales,Low,N,Y,N,9,Y,Medium,Y,Full Time,11,Green,0
+774,Customer Service,Low,N,Y,N,8,Y,Medium,Y,Full Time,7,Green,0
+775,Engineering,Low,N,Y,N,8,Y,High,Y,Full Time,8,Green,0
+776,Finance,Low,N,Y,N,8,Y,Medium,Y,Full Time,9,Green,0
+777,IT,Low,N,Y,N,8,Y,Medium,Y,Full Time,9,Green,0
+778,Legal,Low,N,Y,N,9,Y,Medium,Y,Full Time,9,Green,0
+779,IT,Low,N,Y,N,8,Y,High,Y,Full Time,12,Green,0
+780,Sales,Low,N,Y,N,8,Y,Medium,Y,Full Time,13,Green,0
+781,Engineering,Low,N,Y,N,8,Y,Medium,Y,Full Time,12,Green,0
+782,Engineering,Low,N,Y,N,10,Y,Medium,Y,Full Time,7,Green,0
+783,Sales,Low,N,Y,N,10,Y,High,Y,Full Time,13,Green,0
+784,HR,Low,N,Y,N,9,Y,Medium,Y,Full Time,15,Green,0
+785,Marketing,Low,N,Y,N,9,Y,Medium,Y,Full Time,12,Green,0
+786,Engineering,Low,N,Y,N,9,Y,Medium,Y,Full Time,7,Yellow,0
+787,IT,Low,N,Y,N,8,Y,High,Y,Full Time,8,Yellow,0
+788,Finance,Low,N,Y,N,9,Y,Medium,Y,Full Time,9,Yellow,0
+789,Engineering,Low,N,Y,N,10,Y,Medium,Y,Full Time,14,Yellow,0
+790,Customer Service,Low,N,Y,N,9,Y,Medium,Y,Full Time,7,Yellow,0
+791,Finance,Low,N,Y,N,8,Y,High,Y,Full Time,13,Yellow,0
+792,Legal,Low,N,Y,N,9,Y,Medium,Y,Full Time,15,Yellow,0
+793,Accounting,Low,N,Y,N,8,Y,Medium,Y,Full Time,14,Yellow,0
+794,Finance,Low,N,Y,N,10,Y,Medium,Y,Full Time,15,Yellow,0
+795,Customer Service,Low,N,Y,N,10,Y,High,Y,Full Time,10,Yellow,0
+796,IT,Low,N,Y,N,9,Y,Medium,Y,Full Time,15,Yellow,0
+797,Finance,Low,N,Y,N,8,Y,Medium,Y,Full Time,13,Yellow,0
+798,Marketing,Low,N,Y,N,8,Y,Medium,Y,Full Time,14,Yellow,0
+799,Engineering,Low,N,Y,N,8,Y,High,Y,Full Time,14,Yellow,0
+800,HR,Low,N,Y,N,9,Y,Medium,Y,Full Time,13,Yellow,0
+801,HR,Low,N,Y,N,10,Y,Medium,Y,Full Time,13,Yellow,0
+802,HR,Low,N,Y,N,9,Y,Medium,Y,Full Time,10,Yellow,0
+803,Sales,Low,N,Y,N,10,Y,High,Y,Full Time,12,Green,0
+804,Finance,Low,N,Y,N,8,Y,Medium,Y,Full Time,13,Green,0
+805,IT,Low,N,Y,N,8,Y,Medium,Y,Full Time,7,Green,0
+806,Accounting,Low,N,Y,N,10,Y,Medium,Y,Full Time,7,Green,0
+807,Accounting,Low,N,Y,N,10,Y,High,Y,Full Time,9,Green,0
+808,Legal,Low,N,Y,N,9,Y,Medium,Y,Full Time,7,Green,0
+809,HR,Low,N,Y,N,8,Y,Medium,Y,Full Time,11,Green,0
+810,HR,Low,N,Y,N,5,Y,Medium,Y,Full Time,12,Green,0
+811,Legal,Low,N,Y,N,3,Y,High,Y,Full Time,11,Green,0
+812,Customer Service,Low,N,Y,N,4,Y,Medium,Y,Part Time,12,Green,0
+813,Engineering,Low,N,Y,N,5,Y,Medium,Y,Part Time,10,Green,0
+814,HR,Low,N,Y,N,3,Y,Medium,Y,Part Time,11,Green,0
+815,IT,Low,N,Y,N,5,Y,High,Y,Part Time,11,Green,0
+816,HR,Low,N,Y,N,5,Y,Medium,Y,Part Time,10,Green,0
+817,Engineering,Low,N,Y,N,3,Y,Medium,Y,Part Time,9,Green,0
+818,Marketing,Low,N,N,N,3,Y,Medium,Y,Part Time,11,Green,0
+819,IT,Low,N,N,N,4,Y,High,Y,Part Time,10,Green,0
+820,Admin,Low,N,N,N,4,Y,Medium,Y,Part Time,9,Green,0
+821,Legal,Low,N,N,N,5,Y,Medium,Y,Part Time,11,Green,0
+822,Sales,Low,N,N,N,4,Y,Medium,Y,Part Time,15,Green,0
+823,Legal,Low,N,N,N,3,Y,High,Y,Part Time,7,Green,0
+824,HR,Low,N,N,Y,4,Y,Medium,Y,Part Time,15,Green,0
+825,Legal,Low,N,N,Y,5,Y,Medium,Y,Part Time,11,Green,0
+826,Engineering,Low,N,N,Y,4,Y,Medium,Y,Part Time,14,Green,0
+827,Legal,Low,N,N,Y,5,Y,High,Y,Part Time,8,Green,0
+828,Admin,Low,N,N,Y,5,Y,Medium,Y,Full Time,10,Green,0
+829,Accounting,Low,N,N,Y,5,Y,Medium,Y,Full Time,13,Green,0
+830,IT,Low,N,N,Y,5,Y,Medium,N,Full Time,11,Green,0
+831,Engineering,Low,N,N,Y,5,Y,High,N,Full Time,13,Green,0
+832,HR,Low,N,N,Y,4,Y,Medium,N,Full Time,7,Green,0
+833,Customer Service,Low,N,N,N,4,Y,Medium,N,Full Time,14,Green,0
+834,Engineering,Low,N,N,N,4,Y,Medium,N,Full Time,4,Green,0
+835,Legal,Low,N,N,N,4,Y,High,N,Full Time,5,Green,0
+836,Finance,Low,N,N,N,4,Y,Medium,N,Full Time,6,Green,0
+837,HR,Low,N,N,N,5,Y,Medium,N,Full Time,6,Green,0
+838,IT,Low,N,N,N,4,Y,Medium,N,Full Time,8,Green,0
+839,HR,Low,N,N,N,5,Y,High,N,Full Time,4,Green,0
+840,Engineering,Low,N,N,N,5,Y,Medium,N,Full Time,4,Green,0
+841,Customer Service,Low,N,N,N,3,Y,Medium,N,Full Time,7,Green,0
+842,Customer Service,Low,N,N,N,4,Y,Medium,N,Full Time,4,Green,0
+843,Marketing,Low,N,N,N,3,Y,High,N,Full Time,6,Green,0
+844,Marketing,Low,N,N,N,3,Y,Medium,N,Full Time,5,Green,0
+845,Legal,Low,N,N,N,4,Y,Medium,N,Full Time,8,Green,0
+846,Engineering,Low,N,N,N,4,Y,Medium,N,Full Time,4,Green,0
+847,Accounting,Low,N,N,N,5,Y,High,N,Full Time,5,Green,0
+848,Sales,Low,N,N,N,3,Y,Medium,N,Full Time,7,Green,0
+849,IT,Low,N,N,N,3,Y,Low,N,Full Time,8,Red,1
+850,Sales,Low,N,N,N,1,Y,Low,N,Full Time,6,Red,1
+851,Admin,Low,N,N,Y,2,Y,Low,N,Full Time,4,Red,1
+852,Admin,Low,N,N,Y,2,Y,Low,N,Full Time,5,Red,1
+853,Customer Service,Low,N,N,Y,3,Y,Low,N,Full Time,4,Red,1
+854,Customer Service,Low,N,N,Y,3,Y,Low,N,Part Time,4,Red,1
+855,Customer Service,Low,N,N,Y,3,Y,Low,N,Part Time,8,Red,0
+856,Accounting,Low,N,N,Y,3,Y,Low,N,Part Time,8,Red,0
+857,Accounting,Low,N,N,Y,1,Y,Low,N,Part Time,7,Red,0
+858,Marketing,Low,N,N,Y,2,Y,Low,N,Part Time,8,Red,0
+859,Customer Service,Low,N,N,Y,1,Y,Medium,N,Part Time,6,Red,0
+860,Engineering,Low,N,N,Y,3,Y,Medium,N,Part Time,6,Red,0
+861,Accounting,Low,N,N,Y,1,Y,Low,N,Part Time,4,Red,0
+862,Legal,Low,N,N,Y,3,Y,Low,N,Part Time,2,Red,0
+863,Admin,Low,N,N,Y,3,Y,Medium,N,Part Time,3,Red,0
+864,Accounting,Low,N,N,Y,2,Y,Medium,N,Part Time,2,Red,0
+865,Admin,Low,N,N,Y,2,Y,Medium,N,Part Time,1,Red,0
+866,Engineering,Low,N,N,Y,3,Y,Medium,N,Part Time,3,Red,0
+867,IT,Low,N,N,Y,3,Y,Low,N,Part Time,2,Red,0
+868,HR,Low,N,N,Y,1,Y,Low,N,Part Time,1,Red,0
+869,HR,Low,N,N,Y,3,Y,Medium,N,Part Time,2,Red,0
+870,IT,Low,N,N,Y,1,Y,Medium,N,Part Time,1,Red,0
+871,Customer Service,Low,N,N,Y,2,Y,Medium,N,Part Time,3,Red,0
+872,Customer Service,Low,N,N,Y,3,Y,Medium,N,Part Time,2,Yellow,0
+873,HR,Low,N,N,Y,1,Y,Low,N,Part Time,2,Yellow,0
+874,Marketing,Low,N,N,Y,3,N,Low,N,Part Time,2,Yellow,0
+875,IT,Low,N,N,Y,1,N,Medium,N,Part Time,2,Yellow,0
+876,Marketing,Low,N,N,Y,3,N,Medium,N,Part Time,1,Yellow,1
+877,HR,Low,N,N,Y,3,N,Medium,N,Part Time,2,Yellow,1
+878,HR,Low,N,N,Y,1,N,Medium,N,Part Time,1,Yellow,1
+879,Admin,Low,N,N,Y,2,N,Low,N,Part Time,2,Yellow,1
+880,IT,Low,N,N,Y,2,N,Low,N,Part Time,2,Yellow,0
+881,Finance,Low,N,N,Y,2,N,Medium,N,Part Time,2,Yellow,0
+882,Engineering,Low,N,N,Y,3,N,Medium,N,Part Time,1,Yellow,0
+883,Finance,Low,N,N,Y,3,N,Medium,N,Part Time,3,Yellow,0
+884,Engineering,Low,N,N,Y,1,N,Medium,N,Part Time,1,Yellow,0
+885,Accounting,Low,N,N,Y,3,N,Low,N,Part Time,3,Yellow,0
+886,Accounting,Low,N,N,Y,1,N,Low,N,Part Time,1,Yellow,0
+887,Finance,Low,N,N,Y,2,N,Medium,N,Part Time,2,Yellow,0
+888,Customer Service,Low,N,N,Y,2,N,Low,N,Part Time,2,Yellow,0
+889,Legal,Low,N,N,Y,1,N,Low,N,Part Time,0,Yellow,0
+890,Engineering,Low,N,N,Y,3,N,Low,N,Part Time,0,Yellow,0
+891,Legal,Low,N,N,Y,1,N,Low,N,Part Time,0,Red,1
+892,Legal,Low,N,N,Y,2,N,Low,N,Part Time,0,Red,1
+893,Finance,Low,N,N,Y,2,N,Low,N,Part Time,0,Red,1
+894,Sales,Low,N,N,Y,3,N,Low,N,Part Time,0,Red,1
+895,HR,Low,N,N,Y,3,N,Low,N,Part Time,0,Red,1
+896,Customer Service,Low,N,N,Y,2,N,Low,N,Part Time,0,Red,1
+897,Marketing,Low,N,N,Y,2,N,Low,N,Part Time,0,Red,1
+898,HR,Low,N,N,Y,3,N,Low,N,Part Time,0,Red,1
+899,IT,Low,N,N,Y,3,N,Low,N,Part Time,0,Red,0
+900,Legal,Low,N,Y,N,9,Y,Medium,Y,Full Time,12,Green,0
+901,Legal,Low,N,Y,N,8,Y,Medium,Y,Full Time,10,Green,0
+902,HR,Low,N,Y,N,7,Y,Medium,Y,Full Time,13,Green,1
+903,Engineering,Low,N,Y,N,9,Y,Medium,Y,Full Time,10,Green,0
+904,HR,Low,N,Y,N,9,Y,Medium,Y,Full Time,13,Green,0
+905,Accounting,Low,N,Y,N,10,Y,High,Y,Full Time,10,Green,0
+906,Legal,Low,N,Y,N,8,Y,Medium,Y,Full Time,11,Green,0
+907,Marketing,Low,N,Y,N,9,Y,Medium,Y,Full Time,14,Green,0
+908,Customer Service,Low,N,Y,N,8,Y,Medium,Y,Full Time,12,Green,0
+909,Customer Service,Low,N,Y,N,6,Y,Medium,Y,Full Time,12,Green,1
+910,Finance,Low,N,Y,N,10,Y,Medium,Y,Full Time,13,Green,0
+911,Marketing,Low,N,Y,N,6,Y,Medium,Y,Full Time,11,Green,0
+912,Finance,Low,N,Y,N,7,Y,High,Y,Full Time,13,Green,0
+913,Admin,Low,N,Y,N,9,Y,Medium,Y,Full Time,12,Green,0
+914,HR,Low,N,Y,N,8,Y,Medium,Y,Full Time,12,Green,0
+915,HR,Low,N,Y,N,8,Y,Medium,Y,Full Time,14,Green,0
+916,Engineering,Low,N,Y,N,9,Y,Medium,Y,Full Time,10,Green,0
+917,Accounting,Low,N,Y,N,7,Y,Medium,Y,Full Time,13,Green,0
+918,Legal,Low,N,Y,N,7,Y,Medium,Y,Full Time,12,Green,0
+919,Admin,Low,N,Y,N,6,Y,High,Y,Full Time,11,Green,0
+920,Admin,Low,N,Y,N,7,Y,Medium,Y,Full Time,14,Green,0
+921,HR,Low,N,Y,N,8,Y,Medium,Y,Full Time,12,Green,0
+922,Legal,Low,N,Y,N,9,Y,Medium,Y,Full Time,11,Green,0
+923,Accounting,Low,N,Y,N,8,Y,Medium,Y,Full Time,11,Green,0
+924,Engineering,Low,N,Y,N,7,Y,Medium,Y,Full Time,11,Green,0
+925,Accounting,Low,N,Y,N,7,Y,Medium,Y,Full Time,10,Green,0
+926,Accounting,Low,N,Y,N,9,Y,High,Y,Full Time,10,Green,0
+927,Customer Service,Low,N,Y,N,6,Y,Medium,Y,Full Time,13,Green,0
+928,Legal,Low,N,Y,N,9,Y,Medium,Y,Full Time,14,Green,0
+929,Sales,Low,N,Y,N,9,Y,Medium,Y,Full Time,10,Green,0
+930,IT,Low,N,Y,N,10,Y,Medium,Y,Full Time,10,Green,0
+931,HR,Low,N,Y,N,9,Y,Medium,Y,Full Time,8,Green,0
+932,Customer Service,Low,N,Y,N,7,Y,Medium,Y,Full Time,9,Green,0
+933,HR,Low,N,Y,N,8,Y,High,Y,Full Time,6,Green,1
+934,Marketing,Low,N,Y,N,8,Y,Medium,Y,Full Time,9,Green,0
+935,Legal,Low,N,Y,N,7,Y,Medium,Y,Full Time,10,Green,1
+936,Accounting,Low,N,Y,N,10,Y,Medium,Y,Full Time,10,Green,0
+937,Legal,Low,N,Y,N,10,Y,Medium,Y,Part Time,9,Green,1
+938,Engineering,Low,N,Y,N,8,Y,Medium,Y,Part Time,7,Green,0
+939,Marketing,Low,N,Y,N,10,Y,Medium,Y,Part Time,9,Green,0
+940,Customer Service,Low,N,Y,N,7,Y,High,Y,Part Time,10,Green,0
+941,Legal,Low,N,Y,N,9,Y,Medium,Y,Part Time,8,Green,0
+942,Admin,Low,N,Y,N,6,Y,Medium,N,Part Time,9,Green,0
+943,Accounting,Low,N,Y,N,6,Y,Medium,N,Part Time,6,Green,0
+944,Finance,Low,N,Y,N,6,Y,Medium,N,Part Time,10,Green,1
+945,Legal,Low,N,N,N,7,Y,Low,N,Part Time,7,Green,0
+946,IT,Low,N,N,Y,9,Y,Low,N,Part Time,8,Green,0
+947,HR,Low,N,N,Y,7,Y,Low,N,Part Time,9,Green,1
+948,Accounting,Low,N,N,Y,7,Y,Low,N,Part Time,7,Green,0
+949,IT,Low,N,N,Y,9,Y,Low,N,Part Time,10,Green,0
+950,Accounting,Low,N,N,Y,10,Y,Low,N,Part Time,6,Green,1
+951,Customer Service,Low,N,N,Y,10,Y,Low,N,Part Time,6,Green,0
+952,Sales,Low,N,N,Y,10,Y,Low,N,Part Time,10,Green,0
+953,Legal,Low,N,N,Y,7,Y,Low,N,Part Time,6,Green,0
+954,Customer Service,Low,N,N,Y,8,Y,Low,N,Part Time,7,Green,0
+955,Marketing,Low,N,N,Y,9,Y,Low,N,Part Time,9,Green,0
+956,IT,Low,N,N,Y,8,Y,Low,N,Part Time,1,Green,1
+957,Sales,Low,N,N,Y,7,Y,Low,N,Part Time,3,Green,0
+958,HR,Low,N,N,Y,9,Y,Low,N,Part Time,3,Green,0
+959,Sales,Low,N,N,Y,8,Y,Low,N,Part Time,3,Green,0
+960,Legal,Low,N,N,Y,10,Y,Low,N,Part Time,2,Green,0
+961,Customer Service,Low,N,N,Y,8,Y,Low,N,Part Time,3,Yellow,1
+962,HR,Low,N,N,Y,6,Y,Medium,N,Part Time,3,Yellow,1
+963,Sales,Low,N,N,Y,7,Y,Medium,N,Part Time,1,Yellow,0
+964,HR,Low,N,N,Y,7,Y,Medium,N,Part Time,2,Yellow,0
+965,Engineering,Low,N,N,Y,2,Y,Medium,N,Part Time,2,Yellow,0
+966,HR,Low,N,N,Y,2,Y,Medium,N,Part Time,1,Yellow,1
+967,Engineering,Low,N,N,Y,4,N,Medium,N,Part Time,2,Yellow,0
+968,Sales,Low,N,N,Y,2,N,Medium,N,Part Time,2,Yellow,0
+969,Customer Service,Low,N,N,Y,4,N,Medium,N,Part Time,2,Yellow,1
+970,Sales,Low,N,N,Y,3,N,Medium,N,Full Time,3,Yellow,0
+971,Engineering,Low,N,N,Y,2,N,Low,N,Full Time,1,Yellow,0
+972,HR,Low,N,N,Y,4,N,Low,N,Full Time,3,Yellow,1
+973,IT,Low,N,N,Y,2,N,Low,N,Full Time,1,Yellow,0
+974,Sales,Low,N,N,Y,4,N,Low,N,Full Time,3,Yellow,0
+975,Customer Service,Low,N,N,Y,4,N,Low,N,Full Time,3,Yellow,1
+976,Customer Service,Low,N,N,Y,2,N,Low,N,Full Time,1,Yellow,0
+977,Accounting,Low,N,N,Y,4,N,Low,N,Full Time,1,Yellow,0
+978,Legal,Low,N,N,Y,0,N,Low,N,Full Time,3,Red,1
+979,Engineering,Low,N,N,Y,0,N,Low,N,Full Time,2,Red,1
+980,Admin,Low,N,N,Y,0,N,Low,N,Full Time,3,Red,1
+981,Sales,Low,N,N,Y,0,N,Low,N,Full Time,1,Red,1
+982,HR,Low,N,N,Y,0,N,Low,N,Full Time,2,Red,1
+983,Engineering,Low,N,N,N,0,N,Low,N,Full Time,0,Red,1
+984,Engineering,Low,N,N,N,0,N,Low,N,Full Time,0,Red,1
+985,Sales,Low,N,N,N,0,N,Low,N,Full Time,0,Red,1
+986,Customer Service,Low,N,N,N,0,N,Low,N,Full Time,0,Red,1
+987,Customer Service,Low,N,N,N,0,N,Low,N,Full Time,0,Red,1
+988,Sales,Low,N,N,N,0,N,Low,N,Full Time,0,Red,1
+989,HR,Low,N,N,N,0,N,Low,N,Part Time,0,Red,1
+990,Finance,Low,N,N,N,0,N,Low,N,Part Time,0,Red,1
+991,HR,Low,N,N,N,0,N,Low,N,Part Time,0,Red,1
+992,Customer Service,Low,N,N,N,0,N,Low,N,Part Time,0,Red,1
+993,Admin,Low,N,N,Y,0,N,Low,N,Part Time,0,Red,1
+994,Accounting,Low,N,N,Y,0,N,Low,N,Part Time,0,Red,1
+995,Finance,Low,N,N,Y,0,N,Low,N,Part Time,0,Red,1
+996,Sales,Low,N,N,Y,0,N,Low,N,Part Time,0,Red,1
+997,Customer Service,Low,N,N,Y,0,N,Low,N,Part Time,0,Red,0
+998,Engineering,Low,N,N,Y,0,N,Low,N,Part Time,0,Red,0
+999,IT,Low,N,N,Y,0,N,Low,N,Part Time,0,Red,0
+1000,Marketing,Low,N,N,Y,0,N,Low,N,Part Time,0,Red,0
