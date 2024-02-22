@@ -100,7 +100,7 @@ Model building was performed in a series of steps.
 
 <br>
 
-The table below shows each step's **`average cross-validated auc score`** by model. The cross-validated auc score is a metric used to assess performance of a model across multiple data subsets, offering an unbiased evaluation of its ability to distinguish between positive and negative instances. The score ranges from 0.5 to 1 where a higher values closer to 1 indicates better performance and a score around 0.5 suggests performance is similar to random chance.
+The table below shows each step's **`average cross-validated auc score`** by model. The cross-validated auc score is a metric used to assess performance of a model across multiple data subsets, offering an unbiased evaluation of its ability to distinguish between positive and negative instances. The score ranges from 0 to 1 where higher values closer to 1 indicate better performance and a score around 0.5 suggests performance is similar to random chance.
 
 ![](img/model_performance.png)
 
